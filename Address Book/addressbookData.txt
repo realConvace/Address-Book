@@ -1,0 +1,10 @@
+Alice,Smith,1983-03-14,(234)567-8901,456 Oak Dr,Metropolis,IL,62960
+Michael,Johnson,1978-08-22,(345)678-9012,789 Pine Ln,Gotham,NY,10001
+Emily,Davis,1992-02-28,(456)789-0123,234 Elm St,Smalltown,CA,90210
+Sarah,Wilson,2000-06-10,(567)890-1234,567 Birch Ave,Bigcity,TX,73301
+Jane,Doe,1985-11-25,(678)901-2345,982 Cedar St,Springfield,IL,62701
+David,Doe,1995-03-10,(789)012-3456,112 Walnut St,Springfield,IL,62701
+Tom,Anderson,1975-07-20,(890)123-4567,678 Ash Ct,Smallcity,WA,98001
+Alice,Brown,1988-12-30,(901)234-5678,345 Maple Ave,Bigtown,FL,32123
+Liam,Green,1990-05-15,(234)567-8902,567 Cherry Ln,Westtown,NY,10002
+Emma,Black,1990-05-15,(345)678-9013,789 Oak St,Eastside,CA,90211
